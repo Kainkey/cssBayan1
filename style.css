@@ -7,7 +7,7 @@
 html {
     background: rgb(0, 0, 0);
     background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, #41a041 100%);
-    color: white;
+    color: rgb(184, 236, 191);
     min-height: 100vh;
     cursor: url("https://cdn.custom-cursor.com/db/7647/32/meme-pop-cat-pointer.png"), auto;
 }
